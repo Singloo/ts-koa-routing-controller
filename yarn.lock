@@ -3927,10 +3927,10 @@ qs@^6.5.2:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.1.tgz#20082c65cb78223635ab1a9eaca8875a29bf8ec9"
   integrity sha512-Cxm7/SS/y/Z3MHWSxXb8lIFqgqBowP5JMlTUFyJN88y0SGQhVmZnqFK/PeuMX9LzUyWsqqhNxIyg0jlzq946yA==
 
-rate-limiter-flexible@^1.1.6:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/rate-limiter-flexible/-/rate-limiter-flexible-1.3.0.tgz#cc66bc355dfcc362a2bde58161e2c869a7974f57"
-  integrity sha512-GC4kM+KZ50FFm5nt4peDObhct7GHgLEZGfmsKnBg5rkGv6ImXjxdZU89cOnT171kDVwF0msZrYf5SAFqLfHA1g==
+rate-limiter-flexible@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/rate-limiter-flexible/-/rate-limiter-flexible-1.3.2.tgz#2e2e8730f76bc3c349e9941d1826d40603bcca55"
+  integrity sha512-f+xNvGn+52G4nZVok9VB3LTE1kfDmqbnWKRayX5n2k/LEQ7doWrYvzmzFVh7ltmLgwEdEzoYwxGaXlfCjFg4Ag==
 
 raw-body@^2.2.0, raw-body@^2.3.3:
   version "2.4.1"
@@ -5140,9 +5140,9 @@ yargonaut@^1.1.2:
     parent-require "^1.0.0"
 
 yargs-parser@^13.1.1:
-  version "13.1.1"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.1.tgz#d26058532aa06d365fe091f6a1fc06b2f7e5eca0"
-  integrity sha512-oVAVsHz6uFrg3XQheFII8ESO2ssAf9luWuAd6Wexsu4F3OtIW0o8IribPXYrD4WC24LWtPrJlGy87y5udK+dxQ==
+  version "13.1.2"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.2.tgz#130f09702ebaeef2650d54ce6e3e5706f7a4fb38"
+  integrity sha512-3lbsNRf/j+A4QuSZfDRA7HRSfWrzO0YjqTJd5kjAq37Zep1CEgaYmrH9Q3GwPiB9cHyd1Y1UwggGhJGoxipbzg==
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
